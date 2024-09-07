@@ -12,5 +12,7 @@ O Mundo Tech é um site online intuitivo e fácil de usar, projetadado para ajud
 ### Como Utilizar
 1. **Clone o repositório:**
    ```bash
-   git clone https://seu-link-do-repositorio.git
+   gh repo clone leandronasx/imersao-tech-alura
+2. **Acessar aplicação**
+   https://imersao-tech-alura.vercel.app/
    
