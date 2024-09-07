@@ -14,5 +14,5 @@ O Mundo Tech é um site online intuitivo e fácil de usar, projetadado para ajud
    ```bash
    gh repo clone leandronasx/imersao-tech-alura
 2. **Acessar aplicação**
-   https://imersao-tech-alura.vercel.app/
+   [Mundo Tech](https://imersao-tech-alura.vercel.app/)
    
